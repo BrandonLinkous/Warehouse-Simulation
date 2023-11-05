@@ -1,0 +1,14 @@
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\obj\Debug\net6.0\WarehouseSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\obj\Debug\net6.0\WarehouseSimulation.AssemblyInfoInputs.cache
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\obj\Debug\net6.0\WarehouseSimulation.AssemblyInfo.cs
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\obj\Debug\net6.0\WarehouseSimulation.csproj.CoreCompileInputs.cache
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\bin\Debug\net6.0\WarehouseSimulation.exe
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\bin\Debug\net6.0\WarehouseSimulation.deps.json
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\bin\Debug\net6.0\WarehouseSimulation.runtimeconfig.json
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\bin\Debug\net6.0\WarehouseSimulation.dll
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\bin\Debug\net6.0\WarehouseSimulation.pdb
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\obj\Debug\net6.0\WarehouseSimulation.dll
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\obj\Debug\net6.0\refint\WarehouseSimulation.dll
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\obj\Debug\net6.0\WarehouseSimulation.pdb
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\obj\Debug\net6.0\WarehouseSimulation.genruntimeconfig.cache
+C:\Users\viish\Desktop\ETSU\Fall 2023\CSCI 2210 - Data Structures\Projects\WarehouseSimulation\obj\Debug\net6.0\ref\WarehouseSimulation.dll

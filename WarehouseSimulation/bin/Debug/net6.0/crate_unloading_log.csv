@@ -1,0 +1,23 @@
+Time Increment,Driver,Delivery Company,Crate ID,Crate Value,Scenario
+11,William,Estes,Crate1,$139.52,Crate unloaded, All crates unloaded, No other truck is in the dock
+34,Liam,Knight,Crate16,$24.18,Crate unloaded, More crates to unload
+35,Liam,Knight,Crate15,$15.52,Crate unloaded, More crates to unload
+36,Liam,Knight,Crate14,$194.39,Crate unloaded, More crates to unload
+36,Henry,Knight,Crate6,$346.34,Crate unloaded, More crates to unload
+37,Liam,Knight,Crate13,$327.03,Crate unloaded, More crates to unload
+37,Henry,Knight,Crate5,$47.07,Crate unloaded, More crates to unload
+38,Liam,Knight,Crate12,$462.80,Crate unloaded, More crates to unload
+38,Henry,Knight,Crate4,$40.94,Crate unloaded, More crates to unload
+39,Liam,Knight,Crate11,$184.30,Crate unloaded, More crates to unload
+39,Henry,Knight,Crate3,$474.24,Crate unloaded, More crates to unload
+40,Liam,Knight,Crate10,$19.18,Crate unloaded, More crates to unload
+40,Henry,Knight,Crate2,$373.30,Crate unloaded, More crates to unload
+41,Liam,Knight,Crate9,$264.11,Crate unloaded, More crates to unload
+41,Henry,Knight,Crate1,$235.67,Crate unloaded, All crates unloaded, No other truck is in the dock
+42,Liam,Knight,Crate8,$476.21,Crate unloaded, More crates to unload
+43,Liam,Knight,Crate7,$298.49,Crate unloaded, More crates to unload
+44,Liam,Knight,Crate6,$374.11,Crate unloaded, More crates to unload
+45,Liam,Knight,Crate5,$212.00,Crate unloaded, More crates to unload
+46,Liam,Knight,Crate4,$387.32,Crate unloaded, More crates to unload
+47,Liam,Knight,Crate3,$135.47,Crate unloaded, More crates to unload
+48,Liam,Knight,Crate2,$167.76,Crate unloaded, More crates to unload
